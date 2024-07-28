@@ -14,6 +14,10 @@
 - [ ] Read relevant chapters in the textbook.
 - [ ] Look for example problems in the textbook.
 - [ ] Look for similar exercises in the textbook and see if you can find their solutions.
+- [ ] Attend office hours, come prepared with written questions.
+- [ ] Ask your professor over email, explaining what you have tried
+- [ ] Watch a YouTube video
+- [ ] Ask a classmate
 ## Study Strategies
 https://youtu.be/aLPhBVkhE6I?si=B8zAN1bOXmPkkPcg
 ### Before Class
